@@ -2,10 +2,10 @@
 
 from random import randint
 
-# Sorteio do número
+# Sorteia o número
 numero_sorteado = randint(1,101)
 
-# Manda o usuário digitar o número
+# Inicializando as variáveis
 numero_digitado = 0
 numero_tentativas = 0
 
